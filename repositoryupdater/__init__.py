@@ -11,7 +11,7 @@ Home Assistant app repository approach.
 """
 
 APP_NAME = "repository-updater"
-APP_FULL_NAME = "Home Assistant Community Apps Repository Updater"
+APP_FULL_NAME = "Home Assistant Apps Repository Updater (Fork)"
 APP_VERSION = "2.0.1"
 APP_DESCRIPTION = __doc__
 
